@@ -1,0 +1,2 @@
+class TestChildClass < TestParentClass
+end
